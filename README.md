@@ -17,7 +17,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 2. Kemudian buka installer XAMPP nya, setelah itu next - next saja hingga selesai.
 3. Secara default XAMPP itu akan disimpan dalam Local Disk (C:)
 
-![Install XAMPP](![Xampp](https://user-images.githubusercontent.com/92637117/226498168-16069dc5-a983-4fbe-922b-98d4f5c3a112.png)
+![Install XAMPP](img/![Xampp](https://user-images.githubusercontent.com/92637117/226498494-0470e9c6-072e-4246-88d1-03ea13101de5.png)
 )
 
 4. Buka XAMPP Control Panel.
@@ -67,8 +67,8 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 ```html
 <h2>Menggunakan Variable</h2>
 <?php
-$nim = "004285601";
-$nama = "Bilal";
+$nim = "312110128";
+$nama = "Muhammad Farhan";
 echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
