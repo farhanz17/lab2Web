@@ -163,7 +163,8 @@ echo "Selasa";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi IF]![image](https://user-images.githubusercontent.com/92637117/226503207-b38bcfec-5ed9-432a-8bda-75e100ce9e43.png)
+![Kondisi IF]![image](https://user-images.githubusercontent.com/92637117/226504000-08c49306-8b09-4e8e-84fc-496318ca4769.png)
+
 
 
 ## Kondisi Switch
