@@ -25,7 +25,8 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 4. Buka XAMPP Control Panel.
 5. Lalu klik Start pada Apache dan MySQL.
 
-![XAMPP PANEL]![Xampp](https://user-images.githubusercontent.com/92637117/226502167-fe510155-b8aa-461e-b81c-13603d14a504.png)
+![XAMPP PANEL]![pratikum_output](https://user-images.githubusercontent.com/92637117/226504201-bef7cd2e-8ba4-436a-b331-0aeee0dcae73.png)
+
 
 
 6. Kemudian uji coba apakah web server sudah bekerja dengan baik dengan mengetik http://127.0.0.1 atau http://localhost
