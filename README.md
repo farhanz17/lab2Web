@@ -447,7 +447,8 @@ span {
 
 - Sesudah diinputkan.
 
-![Praktikum2]![image](https://user-images.githubusercontent.com/92637117/226503535-e5ca047a-c34d-4b2c-897b-6635179d3fef.png)
+![Praktikum2]![pratikum_output](https://user-images.githubusercontent.com/92637117/226504405-271939ad-362f-4328-abb8-147152a6f1de.png)
+
 
 
 # Terima Kasih!
