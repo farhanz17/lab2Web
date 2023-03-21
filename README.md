@@ -17,14 +17,16 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 2. Kemudian buka installer XAMPP nya, setelah itu next - next saja hingga selesai.
 3. Secara default XAMPP itu akan disimpan dalam Local Disk (C:)
 
-![Install XAMPP]![Xampp](https://user-images.githubusercontent.com/92637117/226501611-c65dd294-8870-49c9-9f10-eb8ddf734b43.png)
+![Install XAMPP]![image](https://user-images.githubusercontent.com/92637117/226502099-455df9af-0479-4160-a8dc-0d10b0b52528.png)
+
 )
 
 
 4. Buka XAMPP Control Panel.
 5. Lalu klik Start pada Apache dan MySQL.
 
-![XAMPP PANEL](img/xampp_panel.png)
+![XAMPP PANEL]![Xampp](https://user-images.githubusercontent.com/92637117/226502167-fe510155-b8aa-461e-b81c-13603d14a504.png)
+
 
 6. Kemudian uji coba apakah web server sudah bekerja dengan baik dengan mengetik http://127.0.0.1 atau http://localhost
 
@@ -35,7 +37,8 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 <p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/Lab2Web/
 
-![Lab2Web](img/lab2web.png)
+![Lab2Web]![labweb2](https://user-images.githubusercontent.com/92637117/226502316-31980444-c02e-43a7-97aa-058537b53a5a.png)
+
 
 ## PHP Dasar
 <p>Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
@@ -60,7 +63,8 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 <p>Kemudian untuk mengakses hasilnya melalui URL: http://localhost/Lab2Web/php_dasar.php
 
-![PHP DASAR](img/php_dasar.png)
+![PHP DASAR]![phpdasar](https://user-images.githubusercontent.com/92637117/226502370-bc41c1bf-3735-4123-b366-d069f223163e.png)
+
 
 ## Variable PHP
 <p>Menambahkan variable pada program.
@@ -75,7 +79,8 @@ echo "Nama : $nama";
 ?>
 ```
 
-![Variable PHP](img/php_variable.png)
+![Variable PHP]![phpdasarvariable](https://user-images.githubusercontent.com/92637117/226502551-1ff052e6-155b-43d0-9221-b73c022b164d.png)
+
 
 ## Predefine Variable $_GET
 <p>Buat file `latihan2.php` dalam direktori Lab2Web. lalu masukan kode berikut.
@@ -88,9 +93,10 @@ echo "Selamat Datang " . $_GET['nama'];
 ?>
 ```
 
-<p>Untuk mengaksesnya gunakan URL: http://localhost/Lab2Web/latihan2.php?nama=Bilal 
+<p>Untuk mengaksesnya gunakan URL: http://localhost/Lab2Web/latihan2.php?nama=farhan 
 
-![Predefine Variable](img/predefine_variable.png)
+![Predefine Variable]![predefine](https://user-images.githubusercontent.com/92637117/226502587-20c0f728-0895-40ba-8b03-a24d69671ec2.png)
+
 
 ## Membuat Form Input
 - Buat file `latihan3.php` didalam direktori Lab2Web, Kemudian tambahkan kode berikut.
@@ -121,7 +127,8 @@ echo "Selamat Datang " . $_GET['nama'];
 - Lalu inputkan sesuatu dalam kolom form tersebut, kemudian klik Kirim.
 - Maka, hasilnya akan seperti berikut:
 
-![Form Input](img/form_input.png)
+![Form Input]![forminput](https://user-images.githubusercontent.com/92637117/226502636-e771d399-4605-4c55-af2b-58c59aa17f2d.png)
+
 
 ## Operator
 - Masukan kode berikut.
@@ -136,7 +143,8 @@ echo "Gaji yang dibawa pulang = Rp. $thp";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Operator](img/operator.png)
+![Operator]![operator](https://user-images.githubusercontent.com/92637117/226502948-9698c45d-46fa-4adf-8742-6d2aed386e16.png)
+
 
 ## Kondisi IF
 - Masukan kode berikut.
@@ -154,7 +162,8 @@ echo "Selasa";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi IF](img/kondisi_if.png)
+![Kondisi IF]![image](https://user-images.githubusercontent.com/92637117/226503207-b38bcfec-5ed9-432a-8bda-75e100ce9e43.png)
+
 
 ## Kondisi Switch
 - Masukan kode berikut.
@@ -178,7 +187,8 @@ echo "Sabtu";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi Switch](img/switch_case.png)
+![Kondisi Switch]![image](https://user-images.githubusercontent.com/92637117/226503293-492c6e57-cbbb-4722-9cd6-c06535666175.png)
+
 
 ## Perulangan FOR
 - Masukan kode berikut.
