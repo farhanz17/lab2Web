@@ -33,7 +33,8 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 ## Memulai PHP
 <p>Buat folder `Lab2Web` pada root direktori web server (C:\xampp\htdocs)
 
-![Buat Folder](img/buat_folder.png)
+![Buat Folder]![image](https://user-images.githubusercontent.com/92637117/226503440-577c67da-bf3a-4ac0-a620-f90b3a38cb6f.png)
+
 
 <p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/Lab2Web/
 
@@ -206,7 +207,8 @@ echo "Perulangan ke: " . $i . '<br />';
 
 - Maka, hasilnya akan seperti berikut.
 
-![Perulangan For](img/perulangan_for.png)
+![Perulangan For]![image](https://user-images.githubusercontent.com/92637117/226503775-699af2de-7674-4b20-b403-065dee8d4ea7.png)
+
 
 ## Perulangan While
 - Masukan kode berikut.
@@ -222,7 +224,8 @@ $i++;
 
 - Maka, hasilnya akan seperti berikut.
 
-![Perulangan While](img/perulangan_while.png)
+![Perulangan While]![image](https://user-images.githubusercontent.com/92637117/226503704-96910a8a-1254-4650-8ee8-c05f583a4769.png)
+
 
 ## Perulangan Do While
 - Masukan kode berikut.
@@ -437,10 +440,12 @@ span {
 
 - Maka, hasilnya akan seperti berikut.
 
-![Praktikum1](img/praktikum_input.png)
+![Praktikum1]![image](https://user-images.githubusercontent.com/92637117/226503593-76e2527d-a87e-469e-87cd-2fe999e81dc8.png)
+
 
 - Sesudah diinputkan.
 
-![Praktikum2](img/praktikum_output.png)
+![Praktikum2]![image](https://user-images.githubusercontent.com/92637117/226503535-e5ca047a-c34d-4b2c-897b-6635179d3fef.png)
+
 
 # Terima Kasih!
