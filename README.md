@@ -2,7 +2,7 @@
 
 # Tugas Pemograman Web 2
 ## Profil
-| #               | Biodata           |
+| #               | My Data           |
 | --------------- | ----------------- |
 | **Nama**        | Muhammad Farhan   |
 | **NIM**         | 312110128         |
