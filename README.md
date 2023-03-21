@@ -443,7 +443,8 @@ span {
 
 - Maka, hasilnya akan seperti berikut.
 
-![Praktikum1]![image](https://user-images.githubusercontent.com/92637117/226503593-76e2527d-a87e-469e-87cd-2fe999e81dc8.png)
+![Praktikum1]![praktikum](https://user-images.githubusercontent.com/92637117/226505732-4d288751-0067-4835-b63e-3ecf752e1cde.png)
+
 
 
 - Sesudah diinputkan.
